@@ -10,8 +10,8 @@ This is a solution to the [Technical Documentation Page project for responsive w
 
 ### Links
 
-- [View Code]()
-- [Live Preview]()
+- [View Code](https://github.com/elizerdim/technical-documentation-page)
+- [Live Preview](https://elizerdim.github.io/technical-documentation-page)
 
 ## My process
 
